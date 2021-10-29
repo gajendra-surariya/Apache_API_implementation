@@ -1,2 +1,2 @@
 firat 
-first(*)_(*)
+done resolving
